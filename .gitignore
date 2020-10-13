@@ -1,0 +1,7 @@
+debug.log
+chromedriver.exe
+__pycache__
+env
+modules/__pycache__
+modules/__init__.py
+modules/utility_methods.py
